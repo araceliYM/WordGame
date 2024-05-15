@@ -1,3 +1,7 @@
+// Purpose:         Program used for actions regarding a person's first and last names.
+// Programmer:      Araceli YM
+// Created on:      5/06/2024
+
 public class Person
 {
    private String firstName;
