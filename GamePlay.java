@@ -25,7 +25,6 @@ public class GamePlay
       
       if (answer.equals("yes") || answer.equals("Yes"))
       {
-         //FIXME: validate user input
          System.out.println("What is your last name?");
          lastName = scnr.next();
          
